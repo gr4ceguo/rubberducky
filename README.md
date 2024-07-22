@@ -32,7 +32,7 @@ This has not been tested extensively. It was a quick fun project and I have not 
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/yourusername/rubberduck-shell.git
-    cd rubberduck-shell
+    cd rubberducky
     ```
 
 2. **Install required Python packages**:
